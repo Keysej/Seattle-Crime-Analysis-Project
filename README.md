@@ -12,7 +12,7 @@ This project analyzes Seattle Police Department crime and arrest data from 2008â
 - Python, Pandas, GeoPandas, Seaborn, scikit-learn, Matplotlib
 
 ## Author
-- Jimale
+- Jimale Keyse
 
 # Credits
 - Seattle Open Data Portal
